@@ -1,0 +1,27 @@
+autopep8 @ file:///home/conda/feedstock_root/build_artifacts/autopep8_1596345643597/work
+certifi==2020.11.8
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1598400192773/work
+cycler==0.10.0
+cytoolz==0.11.0
+dask @ file:///home/conda/feedstock_root/build_artifacts/dask-core_1602029610262/work
+decorator==4.4.2
+imagecodecs @ file:///Users/runner/miniforge3/conda-bld/imagecodecs_1602637331655/work
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1594044661732/work
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1604322533673/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1605180396303/work
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1598210780226/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1604946192967/work
+olefile==0.46
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1604748705187/work
+pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1589305246696/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+PyWavelets @ file:///Users/runner/miniforge3/conda-bld/pywavelets_1602504449420/work
+PyYAML==5.3.1
+scikit-image==0.17.2
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1604304837006/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tifffile @ file:///home/conda/feedstock_root/build_artifacts/tifffile_1606474373635/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1600973991856/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1604105084921/work
