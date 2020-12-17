@@ -62,6 +62,11 @@ def addBrightness(image, value):
     return hsv2rgb(image)
 
 
-image = cv2.imread('data/test.png', 1)
-noisy_image = addBrightness(image, 10)
-cv2.imwrite("saved/brightness.png", (noisy_image))
+def main():
+    image = cv2.imread('data/test.png', 1)
+    noisy_image = addBrightness(image, 10)
+    cv2.imwrite("saved/brightnesspng", (noisy_image))
+
+
+if __name__ == "__main__":
+    main()
