@@ -41,9 +41,9 @@ def noisy(noise_typ, image):
 
     elif noise_typ == "speckle":
         row, col, ch = image.shape
-        gauss = np.random.randn(row, col, ch)
-        gauss = gauss.reshape(row, col, ch)
-        noisy = image + image * gauss
+        noise = np.random.randn(row, col, ch)
+        noise = noise.reshape(row, col, ch)
+        noisy = image + image * noise
         return noisy
 
 

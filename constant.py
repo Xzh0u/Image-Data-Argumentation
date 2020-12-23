@@ -28,4 +28,4 @@ def addConstantOnce(modifiedImage, length, startX, startY):
     return modifiedImage
 
 
-addConstant(num=10)
+addConstant(num=20)

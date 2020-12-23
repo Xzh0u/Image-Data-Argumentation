@@ -64,8 +64,8 @@ def addBrightness(image, value):
 
 def main():
     image = cv2.imread('data/test.png', 1)
-    noisy_image = addBrightness(image, 10)
-    cv2.imwrite("saved/brightnesspng", (noisy_image))
+    noisy_image = addBrightness(image, 50)
+    cv2.imwrite("saved/brightness.png", (noisy_image))
 
 
 if __name__ == "__main__":
